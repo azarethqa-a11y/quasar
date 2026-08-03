@@ -4,7 +4,7 @@
 
 **Tokenless Discord username checker** with a rich terminal UI, proxy rotation, and a full Multi-Tool suite.
 
-**Async. Fast. Polished. Educative.** ʕ•ᴥ•ʔ
+**Async. Fast. Polished.** ʕ•ᴥ•ʔ
 
 <br>
 
@@ -13,8 +13,8 @@
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Educational-purple?style=for-the-badge)](#️-disclaimer)
 [![Status](https://img.shields.io/badge/Status-Maintained%20(School)-amber?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-v3.2.0-purple?style=for-the-badge)](#)
 
 </div>
 
