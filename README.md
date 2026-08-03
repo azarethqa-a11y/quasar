@@ -1,5 +1,6 @@
+<p align="center"> <img src="Screenshot 2026-08-03 151440.png" alt="Quasar Preview" width="800"> </p>
 ☁️ Quasar Sniper
-<p align="center"> <img src="https://img.shields.io/badge/version-3.2.0-0A84FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/python-3.9%2B-30D158?style=for-the-badge" /> <img src="https://img.shields.io/badge/async-aiohttp-FF9F0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/license-AGPL%20v3.0-blue?style=for-the-badge" /> </p><p align="center"> <b>Tokenless Discord username checker with a rich terminal UI, proxy rotation, and a full Multi‑Tool suite.</b><br> <sub>Async. Fast. Polished. Educative.</sub> </p>
+<p align="center"> <b>Tokenless Discord username checker with a rich terminal UI, proxy rotation, and a full Multi‑Tool suite.</b><br> <sub>Async. Fast. Polished. Educative.</sub> </p><p align="center"> <img src="https://img.shields.io/badge/version-3.2.0-0A84FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/python-3.9%2B-30D158?style=for-the-badge" /> <img src="https://img.shields.io/badge/async-aiohttp-FF9F0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge" /> </p>
 PR status: I will review pull requests when they are opened, but I will not be updating this project right now because I have school. If you want faster attention, open a PR with a clear description and tests.
 
 👾 Features
@@ -54,16 +55,8 @@ TikTok username sniper – check availability via profile pages.
 Minecraft – coming soon.
 
 </details>
-📝 Licensing
-Please read the license carefully; failure to comply may result in legal action.
-
-This program is distributed under the AGPL v3.0. Ensure proper credit is given to this project.
-You can find the full license text in the LICENSE file.
-
 👁 Preview
-https://i.imgur.com/your-screenshot.png
-(Replace with a real screenshot or GIF)
-
+<p align="center"> <img src="Screenshot 2026-08-03 151440.png" alt="Quasar Dashboard" width="800"> <br> <sub>The beautiful, real‑time terminal dashboard.</sub> </p>
 🚀 Quick Start
 Prerequisites
 Python 3.9 or higher
@@ -93,7 +86,7 @@ Note: For SOCKS5 proxies, install aiohttp-socks. For the Snapchat bot, pyautogui
 Interactive Mode
 bash
 python quasar.py
-The main menu:
+The main menu as shown in the preview:
 
 text
 ┌─────────────────────────────────────────────────────────────────────────────┐
