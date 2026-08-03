@@ -8,6 +8,10 @@
 
 <br>
 
+<img src="assets/preview.png" alt="Quasar Sniper — Main Menu" width="100%">
+
+<br>
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Educational-purple?style=for-the-badge)](#️-disclaimer)
 [![Status](https://img.shields.io/badge/Status-Maintained%20(School)-amber?style=for-the-badge)](#)
@@ -57,16 +61,6 @@
 - **Minecraft** — coming soon
 
 </details>
-
----
-
-## 👁 Preview
-
-<p align="center">
-  <img src="assets/preview.png" alt="Quasar Sniper — Main Menu" width="900">
-  <br>
-  <em>The beautiful, real-time terminal dashboard.</em>
-</p>
 
 ---
 
@@ -220,6 +214,7 @@ Can generate random names or load from a file.
 
 ```text
 .
+├── assets/             # README images (preview.png)
 ├── data/               # Proxy, username, and config files
 ├── logs/               # Log files (quasar.log, performance.log)
 ├── results/            # hits.txt (found usernames)
