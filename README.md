@@ -63,16 +63,10 @@
 ## 👁 Preview
 
 <p align="center">
+  <img src="assets/preview.png" alt="Quasar Sniper — Main Menu" width="900">
+  <br>
   <em>The beautiful, real-time terminal dashboard.</em>
 </p>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                              QUASAR MENU                                    │
-│  «01» Setup Wizard   «02» Settings   «03» Multi-Tool                        │
-│  «04» Sniper Mode    «05» Nebula AI  «00» Exit                              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
