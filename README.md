@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="assets/preview.png" alt="Quasar Sniper — Main Menu" width="100%">
+<img src="Screenshot%202026-08-03%20151440.png" alt="Quasar Sniper — Main Menu" width="100%">
 
 <br>
 
@@ -74,7 +74,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quasar.git
+git clone https://github.com/azarethqa-a11y/quasar.git
 cd quasar
 
 # Create a virtual environment (recommended)
@@ -214,7 +214,6 @@ Can generate random names or load from a file.
 
 ```text
 .
-├── assets/             # README images (preview.png)
 ├── data/               # Proxy, username, and config files
 ├── logs/               # Log files (quasar.log, performance.log)
 ├── results/            # hits.txt (found usernames)
@@ -280,9 +279,7 @@ A: Go to **Settings → Change theme** and select from 7 options.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/quasar&type=Date)](https://star-history.com/#yourusername/quasar&Date)
-
-> Replace `yourusername/quasar` with the actual repository path.
+[![Star History Chart](https://api.star-history.com/svg?repos=azarethqa-a11y/quasar&type=Date)](https://star-history.com/#azarethqa-a11y/quasar&Date)
 
 ---
 
